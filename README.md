@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Backend Job Board
 
 Your task is to implement a simple Job Board backend API. Detailed specifications for the test project are provided below. 
